@@ -311,7 +311,6 @@ retail-sales-profitability-analysis/
 - `sql/`: contém as consultas SQL utilizadas nas análises.
 - `powerbi/`: contém o arquivo do dashboard e sua versão em PDF.
 - `docs/`: reúne os documentos com as questões de negócio e os principais insights.
-- `data/`: explica a origem da base e como obtê-la ou prepará-la.
 
 A base original não precisa ser incluída no repositório caso existam restrições de redistribuição. Nesse caso, o arquivo `data/README.md` deve informar a fonte dos dados e as instruções necessárias para reproduzir a análise.
 
