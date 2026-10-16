@@ -287,7 +287,7 @@ O Python foi utilizado para compreender e preparar os dados; o MySQL forneceu um
 
 A comparação dos resultados entre as ferramentas também foi importante para identificar inconsistências e aumentar a confiança nas análises.
 
-## 8. Estrutura do repositório
+## 8. Estrutura
 
 O repositório foi organizado para separar as consultas, o dashboard e a documentação complementar.
 
